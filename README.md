@@ -63,7 +63,7 @@ The application will be available at `http://localhost:3000`
 ## Project Structure
 
 ```
-lux-chat-pro/
+Chat App/
 ├── public/          # Static files and frontend
 ├── models/          # Database models
 ├── server.js        # Main application file
